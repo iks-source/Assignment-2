@@ -60,4 +60,3 @@ var player = [0,0];
 
      }
 
-       document.write("The End" + "<br>");
